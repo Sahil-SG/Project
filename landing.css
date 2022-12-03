@@ -1,0 +1,48 @@
+body {
+  background: url(images/landing.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+#cartoon_imag{
+  width: 236px;
+  left: 477px;
+  top: 153px;
+}
+#icon_imag{
+  /* width: 353px; */
+  position: relative;
+  width: 353px;
+  left: 40%;
+  top: 10px;
+}
+.container{
+  border: 5px solid black;
+  position: absolute;
+  top: 20%;
+  width: 40%;
+  left: 52%;
+  padding: 10px;
+}
+.container p{
+  text-align: center;
+  font-size: xx-large;
+  font-family: cursive;
+  font-style: italic;
+
+}
+.classa{
+  margin: 0 auto;
+  position: relative;
+  left: 20%;
+}
+.classb{
+  position: relative;
+  left: 43%;
+}
+.btn{
+  border-radius: 10px;
+}
+.login{
+  margin-left: 90%;
+  margin-top: 1%;
+  width: 150px;
+}
